@@ -27,6 +27,11 @@ def calculator():
         print("Enter 'quit' to end the program")
         
     options()
+
+    def test_dummy():
+        pass    
+
+    
     
     # Allows calculator to be used
     while True:
